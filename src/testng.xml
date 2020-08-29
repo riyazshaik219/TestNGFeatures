@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="softwaretestingmaterial">
+ <test name="testngTest">
+ <classes>
+ <class name="sampletestNG.GoogleTest" />
+ <class name="sampletestNG.GoogleTitleTest" />
+ <class name="sampletestNG.infiniteLoopTest" />
+ <class name="sampletestNG.invocationCountTest" />
+ <class name="sampletestNG.testNG" />
+ <class name="sampletestNG.testNGfeatures" />
+ </classes>
+ </test>
+</suite>

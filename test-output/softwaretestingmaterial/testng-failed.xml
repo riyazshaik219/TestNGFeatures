@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [softwaretestingmaterial]">
+  <test thread-count="5" name="testngTest(failed)">
+    <classes>
+      <class name="sampletestNG.GoogleTitleTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="goolgeTitleTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- sampletestNG.GoogleTitleTest -->
+      <class name="sampletestNG.testNGfeatures">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- sampletestNG.testNGfeatures -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [softwaretestingmaterial] -->

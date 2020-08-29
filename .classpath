@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/commons-lang-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/opencsv-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/New jars/jar files for selenium/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
